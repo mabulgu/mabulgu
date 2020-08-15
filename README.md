@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi. My name is Aykut. I am a Middleware & AppDev Consultant at Red Hat and co-organizer of Software Craftsmanship Turkey community.
+
+![](avatar.png)
+
+I have a site called [System Craftsman](systemcraftsman.com) if you are interested to have a look. 
+
 
 <!--
 **mabulgu/mabulgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
