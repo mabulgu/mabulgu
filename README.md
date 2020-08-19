@@ -1,7 +1,5 @@
 Hi. My name is Aykut.
 
-![](https://github.com/mabulgu/mabulgu/blob/master/avatar.png?raw=true)
-
 I am a Middleware & AppDev Consultant at Red Hat and co-organizer of Software Craftsmanship Turkey community.
 
 I have a website called [System Craftsman](http://systemcraftsman.com) if you are interested to have a look. 
