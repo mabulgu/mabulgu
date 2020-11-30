@@ -1,3 +1,5 @@
+![](images/9point45.jpg)
+
 Hi! My name is Aykut.
 
 I am a Middleware & AppDev Consultant at Red Hat and co-organizer of Software Craftsmanship Turkey community.
