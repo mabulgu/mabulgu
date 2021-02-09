@@ -1,6 +1,6 @@
 Hi! My name is Aykut.
 
-I am a Middleware & AppDev Consultant at Red Hat and co-organizer of Software Craftsmanship Turkey community.
+I am a Services Content Architect at Red Hat and co-organizer of Software Craftsmanship Turkey community.
 
 I have a website called [System Craftsman](http://systemcraftsman.com) if you are interested to have a look. 
 
