@@ -1,4 +1,4 @@
-Hi! My name is Aykut.
+Hi! My name is Aykut👋
 
 I am a Services Content Architect at Red Hat and co-organizer of Software Craftsmanship Turkey community.
 
