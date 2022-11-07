@@ -1,6 +1,6 @@
 Hi! My name is Aykut 👋
 
-I am a Senior Content Architect at Red Hat and co-organizer of Software Craftsmanship Turkey community.
+I am a Principal Software Engineer at Red Hat and co-organizer of Software Craftsmanship Turkey community.
 
 Visit my website [System Craftsman](http://systemcraftsman.com). 
 
