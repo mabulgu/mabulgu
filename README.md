@@ -4,12 +4,12 @@ I am a Principal Software Engineer at Red Hat and co-organizer of Software Craft
 
 Here are some links from me:
 
-- 🗣️ My talks: https://www.systemcraftsman.com/talks/
-- 🎥 My YouTube channel: https://www.youtube.com/@SystemCraftsman
-- 📜 My articles: https://www.systemcraftsman.com/
-- 👨‍🏫 My services: https://superpeer.com/systemcraftsman
-- 🐦 My Twitter: https://twitter.com/systemcraftsman
-- 🧳 My LinkedIn: https://www.linkedin.com/in/mabulgu/
+- 🗣️ Talks: https://www.systemcraftsman.com/talks/
+- 🎥 YouTube channel: https://www.youtube.com/@SystemCraftsman
+- 📜 Articles: https://www.systemcraftsman.com/
+- 👨‍🏫 Services: https://superpeer.com/systemcraftsman
+- 🐦 Twitter: https://twitter.com/systemcraftsman
+- 🧳 LinkedIn: https://www.linkedin.com/in/mabulgu/
 
 
 <!--
