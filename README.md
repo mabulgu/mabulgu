@@ -2,7 +2,7 @@ Hi! My name is Aykut 👋
 
 I am a Principal Software Engineer at Red Hat and co-organizer of Software Craftsmanship Turkey community.
 
-Here are some links from me:
+Here are some important links that you can follow:
 
 - 🗣️ Talks: https://www.systemcraftsman.com/talks/
 - 🎥 YouTube channel: https://www.youtube.com/@SystemCraftsman
