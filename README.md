@@ -1,6 +1,7 @@
 Hi! My name is Aykut 👋
 
 I am a Principal Software Engineer at Red Hat and co-organizer of Software Craftsmanship Turkey community.
+I do technical writing and provide technical content guidance in my spare time as a freelance Technical Content Specialist.
 
 Here are some important links that you can follow:
 
