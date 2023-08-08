@@ -7,10 +7,13 @@ Here are some important links that you can follow:
 
 - 🗣️ Talks: https://www.systemcraftsman.com/talks/
 - 🎥 YouTube channel: https://www.youtube.com/@SystemCraftsman
-- 📜 Articles: https://www.systemcraftsman.com/
 - 👨‍🏫 Services: https://superpeer.com/systemcraftsman
 - 🐦 Twitter: https://twitter.com/systemcraftsman
 - 🧳 LinkedIn: https://www.linkedin.com/in/mabulgu/
+- 📜 Articles: https://www.systemcraftsman.com/
+- 📜 Articles on other websites:
+  - https://www.atomicjar.com/2023/06/testing-kafka-applications-with-testcontainers/
+  - https://www.influxdata.com/blog/getting-started-apache-kafka-influxdb/
 
 
 <!--
