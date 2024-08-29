@@ -11,7 +11,7 @@ Here are some important links that you can follow:
 - 🐦 Twitter: https://twitter.com/systemcraftsman
 - 🧳 LinkedIn: https://www.linkedin.com/in/mabulgu/
 - 📜 Articles: https://www.systemcraftsman.com/
-- 📜 Articles on other websites:
+- 📜 Some articles on other websites:
   - https://kubebyexample.com/learning-paths/developing-knative-kubernetes/introduction-knative-eventing
   - https://www.atomicjar.com/2023/06/testing-kafka-applications-with-testcontainers/
   - https://www.influxdata.com/blog/getting-started-apache-kafka-influxdb/
