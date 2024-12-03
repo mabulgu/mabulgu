@@ -16,6 +16,7 @@ Here are some important links that you can follow:
   - https://kubebyexample.com/learning-paths/developing-knative-kubernetes/introduction-knative-eventing
   - https://www.atomicjar.com/2023/06/testing-kafka-applications-with-testcontainers/
   - https://www.influxdata.com/blog/getting-started-apache-kafka-influxdb/
+  - https://www.diffblue.com/resources/a-guide-to-microservices-design-patterns-for-java/
 
 
 I code in Java, Python, and Go. Feel free to checkout my GH contributions.
