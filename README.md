@@ -19,4 +19,4 @@ Here are some important links that you can follow:
   - https://www.diffblue.com/resources/a-guide-to-microservices-design-patterns-for-java/
 
 
-I code in Java, Python, and Go. Feel free to checkout my GH contributions.
+I used to code in Java, but I mostly use Python, Go, and Rust nowadays. Feel free to check out my GH contributions.
