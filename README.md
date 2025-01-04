@@ -7,7 +7,7 @@ Here are some important links that you can follow:
 
 - 🗣️ Talks: https://www.systemcraftsman.com/talks/
 - 🎥 YouTube channel: https://www.youtube.com/@SystemCraftsman
-- 👨‍🏫 Services: https://superpeer.com/systemcraftsman
+- 👨‍🏫 Services: https://cal.com/systemcraftsman
 - :butterfly: Bluesky: https://bsky.app/profile/systemcraftsman.com
 - 🐦 Twitter(**READONLY**- follow me on here instead :arrow_up:): https://twitter.com/systemcraftsman
 - 🧳 LinkedIn: https://www.linkedin.com/in/mabulgu/
