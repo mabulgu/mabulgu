@@ -9,7 +9,7 @@ Here are some important links that you can follow:
 - 🎥 YouTube channel: https://www.youtube.com/@SystemCraftsman
 - 👨‍🏫 Services: https://cal.com/systemcraftsman
 - :butterfly: Bluesky: https://bsky.app/profile/systemcraftsman.com
-- 🐦 Twitter(**READONLY**- follow me on here instead :arrow_up:): https://twitter.com/systemcraftsman
+- 🐦 Twitter(follow me on bluesky as well :arrow_up:): https://twitter.com/systemcraftsman
 - 🧳 LinkedIn: https://www.linkedin.com/in/mabulgu/
 - 📜 Articles: https://www.systemcraftsman.com/
 - 📜 Some articles on other websites:
