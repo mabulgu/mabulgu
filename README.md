@@ -3,6 +3,36 @@ Hi! My name is Aykut 👋
 I am a Principal Software Engineer at Red Hat and ex-co-organizer of the Software Craftsmanship Turkey community.
 I also do technical writing and provide technical content guidance in my spare time as a freelance Technical Content Specialist.
 
+For more info about me please see `aykutbulgu.yaml`:
+
+```yaml
+#oc apply -f aykutbulgu.yaml
+apiVersion: redhat/v6.5
+kind: Principal Software Engineer
+metadata:
+ name: Aykut Bulgu
+ namespace: Red Hat Ansible Engineering (previously Kafka)
+ annotations:
+   twitter: @SystemCraftsman
+   bsky: @SystemCraftsman.com
+   email: 
+     - aykut@systemcraftsman.com 
+     - abulgu@redhat.com
+   ex-organizer: Software Craftsmanship Turkey
+   founder: System Craftsman
+ labels:
+   married: yes
+   children: 2
+   interests: 
+     - basketball/nba/rockets
+     - gamification
+     - stoicism
+spec:
+replicas: 1
+containers:
+- image: aykut:latest
+```
+
 Here are some important links that you can follow:
 
 - 🗣️ Talks: https://www.systemcraftsman.com/talks/
